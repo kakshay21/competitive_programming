@@ -1,1 +1,1 @@
-#  Hello World
+#  Season of competitive programming
